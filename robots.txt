@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://communitysupport.netlify.app/sitemap.xml
